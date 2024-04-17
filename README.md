@@ -18,6 +18,9 @@ https://www.youtube.com/c/AllAboutAI
 Hacker News is a specialized social news platform that serves the tech community, providing a space for discussion, sharing, and discovery of content relevant to programmers, entrepreneurs, and others in the industry.
 https://news.ycombinator.com/
 
+### Sentence Transformer
+https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2
+
 ### What is RAG?
 RAG is a way to enhance the capabilities of LLMs by combining their powerful language understanding with targeted retrieval of relevant information from external sources often with using embeddings in vector databases, leading to more accurate, trustworthy, and versatile AI-powered applications
 
