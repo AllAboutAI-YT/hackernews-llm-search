@@ -7,9 +7,9 @@
 1. git clone https://github.com/AllAboutAI-YT/hackernews-llm-search.git
 2. cd dir
 3. pip install -r requirements.txt
-4. Install Ollama (https://ollama.com/download)
-5. run upload.py (pdf, .txt, JSON)
-6. run localrag.py
+4. SET Your API KEY in .env
+5. Install Ollama if needed(https://ollama.com/download)
+6. run raghack.py (pdf, .txt, JSON)
    
 ### My YouTube Channel
 https://www.youtube.com/c/AllAboutAI
