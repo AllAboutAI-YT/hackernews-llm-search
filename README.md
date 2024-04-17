@@ -6,11 +6,12 @@
 ### Setup
 1. git clone https://github.com/AllAboutAI-YT/hackernews-llm-search.git
 2. cd dir
-3. pip install -r requirements.txt
-4. SET Your API KEY in .env
-5. Install Ollama if needed (https://ollama.com/download)
-6. Adjust top_k and chunksize if needed
-7. run raghack.py
+3. create venv if needed
+4. pip install -r requirements.txt
+5. SET Your API KEY in .env
+6. Install Ollama if needed (https://ollama.com/download)
+7. Adjust top_k and chunksize if needed
+8. run raghack.py
    
 ### My YouTube Channel
 https://www.youtube.com/c/AllAboutAI
