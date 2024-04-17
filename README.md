@@ -1,7 +1,7 @@
 # Hacker News AI Search
 
 ### YouTube Tutorial
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/id/0.jpg)](https://www.youtube.com/watch?v=id)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/XlTz-TmrLJg/0.jpg)](https://www.youtube.com/watch?v=XlTz-TmrLJg)
 
 ### Setup
 1. git clone https://github.com/AllAboutAI-YT/hackernews-llm-search.git
