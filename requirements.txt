@@ -1,1 +1,8 @@
-
+torch
+sentence-transformers
+openai
+anthropic
+python-dotenv
+PyPDF2
+requests
+beautifulsoup4
