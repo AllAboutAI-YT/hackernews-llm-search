@@ -91,7 +91,7 @@ def ollama_chat(user_input, system_message, vault_embeddings, vault_content, mod
         user_input_with_context = context_str + "\n\n" + user_input
     # Create a message history including the system message and the user's input with context
     messages = [
-        {"role": "system", "content": system_message2},
+        {"role": "system", "content": system_message},
         {"role": "user", "content": user_input_with_context}
     ]
     # Send the completion request to the Ollama model
