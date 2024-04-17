@@ -9,7 +9,8 @@
 3. pip install -r requirements.txt
 4. SET Your API KEY in .env
 5. Install Ollama if needed (https://ollama.com/download)
-6. run raghack.py
+6. Adjust top_k and chunksize if needed
+7. run raghack.py
    
 ### My YouTube Channel
 https://www.youtube.com/c/AllAboutAI
