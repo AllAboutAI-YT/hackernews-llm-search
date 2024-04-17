@@ -1,7 +1,7 @@
 # Hacker News AI Search
 
 ### YouTube Tutorial
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Oe-7dGDyzPM/0.jpg)](https://www.youtube.com/watch?v=Oe-7dGDyzPM)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/id/0.jpg)](https://www.youtube.com/watch?v=id)
 
 ### Setup
 1. git clone https://github.com/AllAboutAI-YT/easy-local-rag.git
